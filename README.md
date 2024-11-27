@@ -21,5 +21,5 @@ This is a simple weather forecast web application that displays the current weat
 - **Additional Tools**:
   - Axios for API calls
   - React Hooks for state and lifecycle management
-## Setup Instructions
+
 
